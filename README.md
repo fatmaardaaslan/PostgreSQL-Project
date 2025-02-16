@@ -1,5 +1,6 @@
 # PostgreSQL-Project
 Brazilian E-Commerce Public Dataset | PostgreSQL
+
 In this project, order, customer, seller, and payment analyses were conducted using the Brazilian e-commerce public dataset provided by Olist. Additionally, RFM analysis was applied for customer segmentation.
 
 About the Dataset The dataset contains information from approximately 100,000 orders made on various marketplaces in Brazil between the years 2016-2018. It provides data across various dimensions, such as order status, pricing, payment and delivery performance, customer location, product features, and customer reviews.
