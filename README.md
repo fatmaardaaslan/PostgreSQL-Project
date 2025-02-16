@@ -54,4 +54,5 @@ RFM Analysis
 RFM (Recency, Frequency, Monetary) analysis was applied for customer segmentation. Through this analysis, customers were divided into segments based on their shopping frequency, date of last purchase, and total spending. This way, it became possible to develop marketing strategies for different customer groups.
 
 Conclusion 
+
 This project aims to help businesses better understand customer behaviors and make strategic decisions by deeply analyzing Brazilian e-commerce data. The findings provide valuable insights for improving marketing, sales, and logistics processes.
